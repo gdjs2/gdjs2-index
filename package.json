@@ -1,0 +1,16 @@
+{
+  "name": "gdjs2-index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gdjs2/gdjs2-index.git",
+  "author": "gdjs2 <xzqgdjs2@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-reco": "^1.6.6"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

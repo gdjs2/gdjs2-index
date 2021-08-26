@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/Cellar/node/16.7.0/bin/node /usr/local/Cellar/yarn/1.22.11/libexec/bin/yarn.js add -D vuepress-theme-reco
+
+PATH: 
+  /usr/local/Cellar/wabt/1.0.23//bin:/Users/gdjs2/.wasmer/bin:/Users/gdjs2/.wasmtime/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/Cellar/wabt/1.0.23//bin:/Users/gdjs2/.wasmer/bin:/Users/gdjs2/.wasmtime/bin:/Users/gdjs2/.cargo/bin:/Users/gdjs2/.wasmer/globals/wapm_packages/.bin:/Users/gdjs2/.wasmer/globals/wapm_packages/.bin
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  16.7.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/vuepress-theme-reco: ETIMEDOUT
+      at Timeout._onTimeout (/usr/local/Cellar/yarn/1.22.11/libexec/lib/cli.js:141423:19)
+      at listOnTimeout (node:internal/timers:557:17)
+      at processTimers (node:internal/timers:500:7)
+
+npm manifest: 
+  {
+    "name": "gdjs2-index",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:gdjs2/gdjs2-index.git",
+    "author": "gdjs2 <xzqgdjs2@icloud.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
