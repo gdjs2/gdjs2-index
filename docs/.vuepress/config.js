@@ -21,6 +21,7 @@ module.exports = {
 		sidebar: 'auto',
 		// logo: '/logo.png',
 		lastUpdated: '上次更新',
+		smoothScroll: true,
 		blogConfig: {
 			category: { location: 2, text: "分类" },
 			tag: { location: 3, text: "标签" }
