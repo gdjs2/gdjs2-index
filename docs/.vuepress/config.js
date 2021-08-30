@@ -41,7 +41,4 @@ module.exports = {
 			{ text: "关于", link: "/about/", icon: "reco-account" }
 		]
 	},
-	plugins: [
-		'meting',
-	]
 }

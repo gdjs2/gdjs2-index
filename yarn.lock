@@ -957,13 +957,6 @@
     event-target-shim "^5.0.1"
     miniprogram-api-typings "^2.10.2"
 
-"@moefe/vue-aplayer@^2.0.0-beta.5":
-  version "2.0.0-beta.5"
-  resolved "https://registry.nlark.com/@moefe/vue-aplayer/download/@moefe/vue-aplayer-2.0.0-beta.5.tgz#f6bbd1802562e8e30ef9106192008a90bed2a354"
-  integrity sha1-9rvRgCVi6OMO+RBhkgCKkL7So1Q=
-  dependencies:
-    vue "^2.5.17"
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/@mrmlnc/readdir-enhanced/download/@mrmlnc/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -8397,7 +8390,7 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.5.17, vue@^2.6.10, vue@^2.6.12:
+vue@^2.6.10, vue@^2.6.12:
   version "2.6.14"
   resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
@@ -8455,13 +8448,6 @@ vuepress-plugin-mailchimp@^1.4.1:
   dependencies:
     jsonp "^0.2.1"
     query-string "^6.9.0"
-
-vuepress-plugin-meting@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.nlark.com/vuepress-plugin-meting/download/vuepress-plugin-meting-0.3.1.tgz#6318b608f6dc89b61308922c8cd2c02e42f92da2"
-  integrity sha1-Yxi2CPbcibYTCJIsjNLALkL5LaI=
-  dependencies:
-    "@moefe/vue-aplayer" "^2.0.0-beta.5"
 
 vuepress-plugin-sitemap@^2.3.1:
   version "2.3.1"

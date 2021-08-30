@@ -27,4 +27,6 @@ publish: false
 	共话 繁花 飞满天	」
 ```
 
-<Meting auto="https://y.qq.com/portal/song/002hueR70f5oyw.html":lrc-type="3"/>
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=804180936&bvid=BV1jy4y1T7wo&cid=370172099&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+</div>
