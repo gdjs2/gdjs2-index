@@ -40,5 +40,8 @@ module.exports = {
 			{ text: "Github", link: "https://github.com/gdjs2", icon: "reco-github" },
 			{ text: "关于", link: "/about/", icon: "reco-account" }
 		]
-	}
+	},
+	plugins: [
+		'meting',
+	]
 }
