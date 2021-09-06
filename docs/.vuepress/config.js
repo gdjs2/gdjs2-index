@@ -16,6 +16,8 @@ module.exports = {
 		authorAvatar: '/avatar.png',
 		record: "粤ICP备2021110955号",
 		recordLink: "http://beian.miit.gov.cn",
+		cyberSecurityRecord: "粤公网安备 44030502007941号",
+		cyberSecurityLink: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502007941",
 		startYear: "2021",
 		subSidebar: 'auto',
 		sidebar: 'auto',
