@@ -33,7 +33,7 @@ module.exports = {
 				title: 'Trust_04zh',
 				desc: 'CTFer，南方科技大学 2020 级本科生，Smart，Brilliant',
 				email: 'trust04zh@gmail.com',
-				logo: 'https://github.com/Trust04zh/Trust04zh.github.io/blob/master/img/ava.jpg?raw=true',
+				logo: '/zh04_ava.jpeg',
 				link: 'http://www.trust04zh.xyz'
 			}
 		],
