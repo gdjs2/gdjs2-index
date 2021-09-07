@@ -36,7 +36,7 @@
           <PersonalInfo/>
           <h4><reco-icon icon="reco-category" /> {{$recoLocales.category}}</h4>
           <ul class="category-wrapper">
-            <li class="category-item" v-for="(item, index) in this.$categories.list" :key="index">
+            <li class="category-item" v-for="(item, index) in $categoriesList" :key="index">
               <router-link :to="item.path">
                 <span class="category-name">{{ item.name }}</span>
                 <span class="post-num" :style="{ 'backgroundColor': getOneColor() }">{{ item.pages.length }}</span>
